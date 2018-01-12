@@ -31,7 +31,7 @@ For more information on the structure of the Riemann problem for the models list
 ## References
 
 1. N. Andrianov, Testing numerical schemes for the shallow water equations,
-preprint, 2004.  Available at https://github.com/nikolai-andrianov/CONSTRUCT/blob/master/testing_sw.pdf.
+preprint, 2004.  Available [here](https://github.com/nikolai-andrianov/CONSTRUCT/blob/master/testing_sw.pdf).
 2. N. Andrianov and G. Warnecke, The Riemann problem for the Baer-Nunziato two-phase flow model,
  *J. Comput. Phys.* **195**, 434-464 (2004).
 3. N. Andrianov and G. Warnecke, On the solution to the Riemann problem for the compressible duct flow,
