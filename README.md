@@ -29,10 +29,11 @@ to be in general non-unique.
 For more information on the structure of the Riemann problem for the models listed above, see the references below.
 
 ## References
-
-1. N. Andrianov, Testing numerical schemes for the shallow water equations,
-preprint, 2004.  Available [here](https://github.com/nikolai-andrianov/CONSTRUCT/blob/master/testing_sw.pdf).
-2. N. Andrianov and G. Warnecke, The Riemann problem for the Baer-Nunziato two-phase flow model,
+1. N. Andrianov and G. Warnecke, The Riemann problem for the Baer-Nunziato two-phase flow model,
  *J. Comput. Phys.* **195**, 434-464 (2004).
-3. N. Andrianov and G. Warnecke, On the solution to the Riemann problem for the compressible duct flow,
+2. N. Andrianov and G. Warnecke, On the solution to the Riemann problem for the compressible duct flow,
 *SIAM J. Appl. Math.* **64**(3), 878-901 (2004).
+3. N. Andrianov, Performance of numerical methods on the non-unique solution to the 
+Riemann problem for the shallow water equations. Int. J. Numer. Meth. Fluids, 47: 825–831 (2005). 
+4. N. Andrianov, Testing numerical schemes for the shallow water equations,
+preprint, 2004.  Available [here](https://github.com/nikolai-andrianov/CONSTRUCT/blob/master/testing_sw.pdf).
